@@ -1,0 +1,5 @@
+E:\sampleweb\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\sampleweb\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\sampleweb\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\sampleweb\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\sampleweb\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

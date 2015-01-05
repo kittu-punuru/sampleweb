@@ -1,0 +1,5 @@
+E:\sampleweb\WebApplication12\WebApplication12\bin\WebApplication12.dll.config
+E:\sampleweb\WebApplication12\WebApplication12\bin\WebApplication12.dll
+E:\sampleweb\WebApplication12\WebApplication12\bin\WebApplication12.pdb
+E:\sampleweb\WebApplication12\WebApplication12\obj\Debug\WebApplication12.dll
+E:\sampleweb\WebApplication12\WebApplication12\obj\Debug\WebApplication12.pdb

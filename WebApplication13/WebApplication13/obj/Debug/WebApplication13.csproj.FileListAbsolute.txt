@@ -1,0 +1,6 @@
+E:\sampleweb\WebApplication13\WebApplication13\obj\Debug\WebApplication13.csprojResolveAssemblyReference.cache
+E:\sampleweb\WebApplication13\WebApplication13\bin\WebApplication13.dll.config
+E:\sampleweb\WebApplication13\WebApplication13\bin\WebApplication13.dll
+E:\sampleweb\WebApplication13\WebApplication13\bin\WebApplication13.pdb
+E:\sampleweb\WebApplication13\WebApplication13\obj\Debug\WebApplication13.dll
+E:\sampleweb\WebApplication13\WebApplication13\obj\Debug\WebApplication13.pdb
