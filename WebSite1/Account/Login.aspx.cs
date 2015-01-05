@@ -35,6 +35,12 @@ public partial class Account_Login : Page
                     FailureText.Text = "Invalid username or password.";
                     ErrorMessage.Visible = true;
                 }
+
+		if (user == 'shashank')
+		{
+			FailureText.Text = "The user is blocked from the forums";
+			ErrorMessage.Visible = true;
+		}
             }
         }
 }
